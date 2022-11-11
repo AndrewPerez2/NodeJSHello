@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/GUWebDevelopment/nodejs-participation-AndrewPerez2/issues"
   },
-  "homepage": "https://github.com/GUWebDevelopment/nodejs-participation-AndrewPerez2#readme"
+  "homepage": "https://github.com/GUWebDevelopment/nodejs-participation-AndrewPerez2#readme",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
 }
